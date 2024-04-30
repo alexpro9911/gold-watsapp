@@ -11,9 +11,9 @@ Welcome to GoldWatsapp.com is a free website that allow you to download the late
 Here's how you can use this project:
 
 1. Step 1: Search Goldwatsapp in your google search.
-2. Step 2: Open www.goldwatsapp.com website.
+2. Step 2: Open goldwatsapp website.
 3. Step 3: Click on the Download Gold Whatsapp button
 
 ## Website
 
-Visit [Goldwatsapp(https://www.goldwatsapp.com) for more information.
+Visit [GoldWatsapp](https://www.goldwatsapp.com) for more information.
